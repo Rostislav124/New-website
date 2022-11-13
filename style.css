@@ -1,0 +1,19 @@
+.header{
+    background-color: grey;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+.img{
+    margin-left: 55px;
+    width: 297px;
+    height: 70px;
+}
+.searchInput{
+    width: 500px;
+    height: 43px;
+    border-radius: 10px;
+    margin-left: 50px;
+    vertical-align: middle;
+    margin-top: -65px;
+}
